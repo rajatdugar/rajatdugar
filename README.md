@@ -370,13 +370,12 @@ Feel free to connect with me if you have an exciting opportunity.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatdugar&theme=tokyonight&hide_border=true"/>
 
 </p>
----
+
 <!--
 # 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rajatdugar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
-
 --->
 
 # 📈 Contribution Graph
@@ -387,7 +386,7 @@ Feel free to connect with me if you have an exciting opportunity.
 
 </p>
 
----
+
 <!--
 # 🐍 Snake Eating Contributions
 

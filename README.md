@@ -369,21 +369,15 @@ Feel free to connect with me if you have an exciting opportunity.
 ---
 
 # 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatdugar&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajatdugar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatdugar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajatdugar&theme=algolia&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=rajatdugar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---

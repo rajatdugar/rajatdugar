@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 MCA (Generative AI) Student at **SRM Institute of Science & Technology**
+🎓 MCA (Generative AI) , **SRM Institute of Science & Technology**
 
 💼 Former **Data Scientist Intern** at **Muthoot FinCorp ONE**
 
